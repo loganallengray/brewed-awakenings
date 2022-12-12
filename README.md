@@ -1,0 +1,1 @@
+Practice displaying javascript in HTML
